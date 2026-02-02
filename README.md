@@ -102,3 +102,27 @@
 <script src="script.js"></script>
 </body>
 </html>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>PEN – Church Empowerment</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<section class="hero">
+  <h1>Church Empowerment</h1>
+  <p>Equipping churches with leadership, stewardship & discipleship tools.</p>
+</section>
+
+<section>
+  <ul>
+    <li>Leadership training</li>
+    <li>Youth discipleship</li>
+    <li>Financial stewardship</li>
+    <li>Cooperative development</li>
+  </ul>
+</section>
+
+</body>
+</html>
